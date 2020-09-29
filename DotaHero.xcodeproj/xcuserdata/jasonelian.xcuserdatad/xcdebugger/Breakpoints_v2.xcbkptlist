@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "31B5AD72-81D6-4D62-8AE1-3D9B164F3210"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDB07B81-296E-414C-B6F3-844FBD0F3A1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DotaHero/DotaHero/DotaHeroCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C5C5B9F-3A8C-45F1-9A35-EC7B7D7EFC98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DotaHero/MainCategory/MainAppViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "openDetailHero(withIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D1173FB-9BF3-4E9D-8C0C-0878B5BBB77C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DotaHero/DetailHeroVC/HeroView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "setupContent(image:heroName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16233502-7A12-42AF-9E4A-6D662E631E1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DotaHero/MainCategory/MainAppViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "getAltHeroes(byAttribute:withHeroes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "16233502-7A12-42AF-9E4A-6D662E631E1E - 4910698806f08197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DotaHero.MainAppViewController.(getAltHeroes in _D0E0C9163382C5C318DABDF53E009427)(byAttribute: DotaHero.MDotaHero.Attribute, withHeroes: Swift.Array&lt;DotaHero.MDotaHero&gt;) -&gt; Swift.Array&lt;DotaHero.MDotaHero&gt;"
+                  moduleName = "DotaHero"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasonelian/Desktop/DotaHero/DotaHero/MainCategory/MainAppViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1050">
+               </Location>
+               <Location
+                  uuid = "16233502-7A12-42AF-9E4A-6D662E631E1E - dec21ff299ba6534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DotaHero.ComparedHero) -&gt; DotaHero.MDotaHero in DotaHero.MainAppViewController.(getAltHeroes in _D0E0C9163382C5C318DABDF53E009427)(byAttribute: DotaHero.MDotaHero.Attribute, withHeroes: Swift.Array&lt;DotaHero.MDotaHero&gt;) -&gt; Swift.Array&lt;DotaHero.MDotaHero&gt;"
+                  moduleName = "DotaHero"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasonelian/Desktop/DotaHero/DotaHero/MainCategory/MainAppViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB122A61-292F-4D48-938C-6F0788FE2419"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DotaHero/MainCategory/MainAppViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "isTheHighestAttributes(withHighestHeroAttributes:comparedAttribute:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C0E3822-F4E2-42EB-8B2D-3054FA96371A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DotaHero/MainCategory/MainAppViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "getAltHeroes(byAttribute:withHeroes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C0E3822-F4E2-42EB-8B2D-3054FA96371A - 4910698806f08197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DotaHero.MainAppViewController.(getAltHeroes in _D0E0C9163382C5C318DABDF53E009427)(byAttribute: DotaHero.MDotaHero.Attribute, withHeroes: Swift.Array&lt;DotaHero.MDotaHero&gt;) -&gt; Swift.Array&lt;DotaHero.MDotaHero&gt;"
+                  moduleName = "DotaHero"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasonelian/Desktop/DotaHero/DotaHero/MainCategory/MainAppViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "1998">
+               </Location>
+               <Location
+                  uuid = "0C0E3822-F4E2-42EB-8B2D-3054FA96371A - dec21ff299ba6534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DotaHero.ComparedHero) -&gt; DotaHero.MDotaHero in DotaHero.MainAppViewController.(getAltHeroes in _D0E0C9163382C5C318DABDF53E009427)(byAttribute: DotaHero.MDotaHero.Attribute, withHeroes: Swift.Array&lt;DotaHero.MDotaHero&gt;) -&gt; Swift.Array&lt;DotaHero.MDotaHero&gt;"
+                  moduleName = "DotaHero"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasonelian/Desktop/DotaHero/DotaHero/MainCategory/MainAppViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
